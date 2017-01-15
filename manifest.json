@@ -1,0 +1,7 @@
+{
+  "name": "grid-layout-demo",
+  "short_name": "grid-layout-demo",
+  "description": "A demo to show off grid-layout proto with widgets",
+  "start_url": "/",
+  "display": "standalone"
+}
